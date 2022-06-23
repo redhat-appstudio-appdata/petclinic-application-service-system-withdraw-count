@@ -5,7 +5,7 @@ metadata:
   name: component-sample
   namespace: application-service-system
 spec:
-  replicas: 1
+  replicas: 3
   selector: null
   strategy: {}
   template:
